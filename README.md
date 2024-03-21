@@ -1,9 +1,10 @@
 ```
-Varios arquivos tão aí no repositório, é só executar:
+Varios arquivos tão aí no repositório, é só executar o comando:
 
 git clone https://github.com/andrelps1/files
 
 que ele vai baixar uma pasta no seu servidor chamada 'files', lá dentro tem os arquivos.
+executa esse comando depois de atualizar o sistema.
 ```
 
 
