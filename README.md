@@ -5,9 +5,11 @@ git clone https://github.com/andrelps1/files
 
 que ele vai baixar uma pasta no seu servidor chamada 'files', lá dentro tem os arquivos.
 executa esse comando depois de atualizar o sistema.
+
+FAZ OS TREM COM ATENÇÂO FI
 ```
 
-# Subistitua esses bagulho aí de acordo com seu PC e seu domíinio
+## Subistitua esses bagulho aí de acordo com seu PC e seu domínio
 ```
 <iface>   =   nome da sua interface.      ex: enp3s0
 <host>    =   nome da sua maquina.        ex: srv-xpto
