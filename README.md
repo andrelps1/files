@@ -266,11 +266,11 @@ apt install build-essential libacl1-dev libattr1-dev libblkid-dev libgnutls-dev 
 
 #### Campos de configuração do KERBEROS
 ```bash
-# Realm
+# Realm exemplo: XYZ.LOCAL
 <domain>
-# Servers
+# Servers exemplo: srv-xyz.xyz.local
 <host>.<domain>
-# ADM Server
+# ADM Server exemplo: srv-xyz.xyz.local
 <host>.<domain>
 ```
 
