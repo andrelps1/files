@@ -173,7 +173,7 @@ vi /etc/squid/squid.conf
 #### conteúdo do arquivo:
 ```
 Também ta na pasta do repositório.
-Tem que editar o arquivo do squid e colocar sua regra de sites proibidos e trocar os IP's caso o seu seja diferente, isso aí você mesmo faz.
+Cria o arquivo sites_proibidos na pasta /etc/squid e coloca algum site pra bloquear la dentro.
 ```
 
 #### Pasta de cache do `squid`
