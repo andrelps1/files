@@ -9,9 +9,9 @@ executa esse comando depois de atualizar o sistema.
 
 # Subistitua esses bagulho aí de acordo com seu PC e seu domíinio
 ```
-<iface>     nome da sua interface.      ex: <iface>
-<host>      nome da sua maquina.        ex: srv-xpto
-<domain>    seu domínio.                ex: xpto.local
+<iface>   =   nome da sua interface.      ex: enp3s0
+<host>    =   nome da sua maquina.        ex: srv-xpto
+<domain>  =   seu domínio.                ex: xpto.local
 ```
 
 
